@@ -1,3 +1,7 @@
+Ecommerce-Dashboard
+
+Description: “This project showcases an interactive Power BI Dashboard for E-commerce sales insights.”
+
 # 🛒 E-Commerce Sales Dashboard
 
 This Power BI dashboard provides insights into **sales, profit, and customer behavior** across different states and categories.
